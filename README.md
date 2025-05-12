@@ -14,6 +14,9 @@ A complete MySQL database for managing library operations including:
    ```bash
    mysql -u username -p < library_db.sql
 
+![Untitled](https://github.com/user-attachments/assets/855874e2-02b8-4d77-af47-14e3ccea5eb4)
+
+
 ## 💡 Key Features
 1. **Complete Schema**: All necessary tables for library operations
 2. **Data Integrity**: Constraints ensure valid data
