@@ -1,5 +1,5 @@
 -- Library Management System Database
--- Created by [Your Name] on [Date]
+-- Created by Alexander Wambugu on 10/5/2025
 
 -- Create database
 CREATE DATABASE IF NOT EXISTS library_management;
